@@ -22,8 +22,12 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
-```
+``` 
 
 
 ![2023-02-08 (1)](https://user-images.githubusercontent.com/122822611/217708032-1618ff3e-4266-4c06-a4d6-2a2eba2396bf.png)
+
+## Links
+Deployed: https://dlellis07.github.io/portfolio
+GitHub: https://github.com/DLEllis07/My-Professional-Portfolio
 
